@@ -4,4 +4,4 @@ Personal project
 Practicando javascript
 Todo list basico para practicar eliminar y agregar items al layout!
 
-https://Suarez-dev.github.io/TodoListBasico/
+https://polyxein.github.io/TodoListBasico/
